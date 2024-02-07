@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace CombinedPlugin
 {
-    [BepInPlugin("husko.holehouse.better_cheating", "Better Cheating", "1.0.0")]
+    [BepInPlugin("husko.holehouse.better_cheats", "Better Cheats", "1.0.0")]
     [BepInProcess("HoleHouse v0.1.exe")]
     [BepInProcess("HoleHouse.exe")]
     public class Plugin : BaseUnityPlugin
@@ -125,7 +125,7 @@ namespace CombinedPlugin
                 if (Event.current.type == EventType.MouseDown && new Rect(versionX, versionY, versionWidth, versionHeight).Contains(Event.current.mousePosition))
                 {
                     // Open GitHub when the version number is clicked
-                    Application.OpenURL("https://github.com/your-github-repository");
+                    Application.OpenURL("https://github.com/Official-Husko/holehouse-better-cheats");
                 }
             }
 
