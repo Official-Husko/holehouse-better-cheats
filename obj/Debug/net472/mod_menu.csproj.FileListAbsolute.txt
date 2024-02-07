@@ -1,0 +1,15 @@
+Z:\Projects\CSharp\game_mods\mod_menu\bin\Debug\net472\mod_menu.dll
+Z:\Projects\CSharp\game_mods\mod_menu\bin\Debug\net472\mod_menu.pdb
+C:\Users\Official Husko\Downloads\Compressed\v0.1.62\(v0.1.62) HoleHouse [Windows]\(v0.1.62) HoleHouse [Windows]\BepInEx\plugins\mod_menu\net472\mod_menu.dll
+C:\Users\Official Husko\Downloads\Compressed\v0.1.62\(v0.1.62) HoleHouse [Windows]\(v0.1.62) HoleHouse [Windows]\BepInEx\plugins\mod_menu\net472\mod_menu.pdb
+C:\Users\Official Husko\Downloads\Compressed\v0.1.62\(v0.1.62) HoleHouse [Windows]\(v0.1.62) HoleHouse [Windows]\BepInEx\plugins\net472\mod_menu.dll
+C:\Users\Official Husko\Downloads\Compressed\v0.1.62\(v0.1.62) HoleHouse [Windows]\(v0.1.62) HoleHouse [Windows]\BepInEx\plugins\net472\mod_menu.pdb
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.csproj.AssemblyReference.cache
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\MyPluginInfo.cs
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.AssemblyInfoInputs.cache
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.AssemblyInfo.cs
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.csproj.CoreCompileInputs.cache
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.dll
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.pdb
+Z:\Projects\CSharp\game_mods\mod_menu\obj\Debug\net472\mod_menu.csproj.CopyComplete
