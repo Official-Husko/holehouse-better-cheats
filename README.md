@@ -1,10 +1,10 @@
-# HoleHouse Better Cheats
+# [Hole House](https://holehousecodes.com/) Better Cheats
 This simple BepInEx mod allows the use of more cheats. You can now cheat yourself potions, diamonds, coins, levels, experience, pregnancy, god mode, copy codes, and more!
 
 ## How to use
 1. Download the Latest Game version from [here](https://f95zone.to/threads/holehouse-v0-1-62-patreon-dotart.99037/).
 2. Download & Install the Latest BepInEx 5 from [here](https://github.com/BepInEx/BepInEx/releases/latest).
-3. Download the Latest Mod release from [here](https://github.com/Official-Husko/HoleHouse-Better-Cheats/releases/latest).
+3. Download [hole house](https://www.patreon.com/holehouseXD) Latest Mod release from [here](https://github.com/Official-Husko/HoleHouse-Better-Cheats/releases/latest).
 4. Throw the **better_cheats.dll** into **BepInEx/plugins**.
 5. Start the game and cheat to your heart's content!
 
